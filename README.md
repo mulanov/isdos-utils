@@ -8,12 +8,15 @@ Since iS-DOS was designed for Russian-speaking users, and most of the system pro
 
 All programs are coded using Z-80 assembler.
 
-## iS-DOS graph
-
-iS-DOS graph is a program for plotting mathematical functions. Cartesian and polar coordinate systems are supported, as well as parametric function assignment.
-Numerical integration of functions is possible.
-Built-in calculator included.
-
 [iS-DOS]: https://en.wikipedia.org/wiki/IS-DOS
 [ZX-Spectrum]: https://en.wikipedia.org/wiki/ZX_Spectrum
 [Beta Disk interface]: https://en.wikipedia.org/wiki/Beta_Disk_Interface
+
+
+## iS-DOS graph
+
+[iS-DOS graph](graph/README.md) is a program for plotting mathematical functions. Cartesian and polar coordinate systems are supported, as well as parametric function assignment.
+Numerical integration of functions is possible.
+Built-in calculator included.
+
+![iS-DOS graph screenshot](graph/graph.png)
